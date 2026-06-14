@@ -1,6 +1,6 @@
 # Hola, soy Jesús Alberto
 
-Desarrollador de Aplicaciones Web con DAW completado e Ingeniería Informática en curso. Apasionado por construir aplicaciones web funcionales y con buena experiencia de usuario.
+Desarrollador de Aplicaciones Web con DAW completado e Ingeniería Informática en curso. Apasionado por construir aplicaciones web funcionales
 
 ---
 
